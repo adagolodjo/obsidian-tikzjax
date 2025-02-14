@@ -1,7 +1,7 @@
 {
 	"id": "obsidian-tikzjax",
+	"version": "0.5.3",
 	"name": "TikZJax",
-	"version": "0.5.2",
 	"minAppVersion": "0.12.0",
 	"description": "Render LaTeX and TikZ diagrams in your notes",
 	"author": "artisticat",
